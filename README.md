@@ -1,16 +1,16 @@
-### Hi there 👋
+# 🥔 Martin (@mtverraen)
 
-<!--
-**mtverraen/mtverraen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced DevSecOps Engineer turned cryptobro and blockchain developer. Currently working on building [Saline Network](https://saline.network)
 
-Here are some ideas to get you started:
+Past experience include 👇
+- 🔸 DevSecOps
+- 🗼 Enterprise-scale application platforms (Security, automation, CI/CD, Service mesh .. list goes on)
+- 🔐 PKI
+- ⚓️  Site Reliability Engineering (SRE)/DevOps
+- 🔧 Chaos Engineering
+- ☁️  Cloud Security Architecture and audits
+- 🛡️ Security and incident response
+- 🍀 Cryptography and side-channel attacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥔 Why the potato?
+Because potatoes can be used for all kinds of things.
